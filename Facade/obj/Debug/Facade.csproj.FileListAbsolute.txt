@@ -1,0 +1,7 @@
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\Facade\bin\Debug\Facade.exe.config
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\Facade\bin\Debug\Facade.exe
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\Facade\bin\Debug\Facade.pdb
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\Facade\obj\Debug\Facade.exe
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\Facade\obj\Debug\Facade.pdb

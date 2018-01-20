@@ -1,0 +1,7 @@
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\Proxy\bin\Debug\Proxy.exe.config
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\Proxy\bin\Debug\Proxy.exe
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\Proxy\bin\Debug\Proxy.pdb
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\Proxy\obj\Debug\Proxy.exe
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\Proxy\obj\Debug\Proxy.pdb
