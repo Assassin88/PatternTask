@@ -15,19 +15,19 @@ namespace Singleton_Log
         static void Main(string[] args)
         {
             Console.WriteLine("Car.GetInstance();");
-            var car = Car.GetInstance();
+            var car  = Loger.GetInstance();
             Thread.Sleep(2000);
 
-            var car2 = Car.GetInstance();
+            var car2 = Loger.GetInstance();
 
-            Car.ReleaseSource();
+            Loger.ReleaseSource();
             Console.WriteLine("Car.ReleaseSource();");
 
-            car2 = Car.GetInstance();
+            car2 = Loger.GetInstance();
             Console.WriteLine("Car.GetInstance();");
             Thread.Sleep(2000);
 
-            Car.ReleaseSource();
+            Loger.ReleaseSource();
             Console.WriteLine("Car.ReleaseSource();");
 
             Console.ReadKey();
