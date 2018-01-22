@@ -1,0 +1,7 @@
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\AdapterString\bin\Debug\AdapterString.exe.config
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\AdapterString\bin\Debug\AdapterString.exe
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\AdapterString\bin\Debug\AdapterString.pdb
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\AdapterString\obj\Debug\AdapterString.csprojResolveAssemblyReference.cache
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\AdapterString\obj\Debug\AdapterString.csproj.CoreCompileInputs.cache
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\AdapterString\obj\Debug\AdapterString.exe
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\AdapterString\obj\Debug\AdapterString.pdb

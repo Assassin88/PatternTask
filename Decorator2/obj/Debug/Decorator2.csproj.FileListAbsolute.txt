@@ -1,0 +1,6 @@
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\Decorator2\bin\Debug\Decorator2.exe.config
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\Decorator2\bin\Debug\Decorator2.exe
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\Decorator2\bin\Debug\Decorator2.pdb
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\Decorator2\obj\Debug\Decorator2.csprojResolveAssemblyReference.cache
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\Decorator2\obj\Debug\Decorator2.exe
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\Decorator2\obj\Debug\Decorator2.pdb

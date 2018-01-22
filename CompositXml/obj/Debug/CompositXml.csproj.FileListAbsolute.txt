@@ -1,0 +1,13 @@
+C:\Users\Pau\documents\visual studio 2015\Projects\StructPattern_HomeTask_№2\CompositXml\bin\Debug\CompositXml.exe.config
+C:\Users\Pau\documents\visual studio 2015\Projects\StructPattern_HomeTask_№2\CompositXml\bin\Debug\CompositXml.exe
+C:\Users\Pau\documents\visual studio 2015\Projects\StructPattern_HomeTask_№2\CompositXml\bin\Debug\CompositXml.pdb
+C:\Users\Pau\documents\visual studio 2015\Projects\StructPattern_HomeTask_№2\CompositXml\obj\Debug\CompositXml.csprojResolveAssemblyReference.cache
+C:\Users\Pau\documents\visual studio 2015\Projects\StructPattern_HomeTask_№2\CompositXml\obj\Debug\CompositXml.exe
+C:\Users\Pau\documents\visual studio 2015\Projects\StructPattern_HomeTask_№2\CompositXml\obj\Debug\CompositXml.pdb
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\CompositXml\bin\Debug\CompositXml.exe.config
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\CompositXml\bin\Debug\CompositXml.exe
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\CompositXml\bin\Debug\CompositXml.pdb
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\CompositXml\obj\Debug\CompositXml.csprojResolveAssemblyReference.cache
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\CompositXml\obj\Debug\CompositXml.csproj.CoreCompileInputs.cache
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\CompositXml\obj\Debug\CompositXml.exe
+F:\Patterns\HomeTask\StructPattern_HomeTask_№2\CompositXml\obj\Debug\CompositXml.pdb
