@@ -13,3 +13,7 @@ F:\Patterns\HomeTask\CreatPattens_HomeTask_№1\BuilderTaxFree\obj\Debug\Builder
 C:\Users\st\Documents\GitHub\PatternTask\BuilderTaxFree\bin\Debug\BuilderTaxFree.exe.config
 C:\Users\st\Documents\GitHub\PatternTask\BuilderTaxFree\obj\Debug\BuilderTaxFree.exe
 C:\Users\st\Documents\GitHub\PatternTask\BuilderTaxFree\obj\Debug\BuilderTaxFree.pdb
+C:\Users\st\Documents\GitHub\PatternTask\BuilderTaxFree\obj\Debug\BuilderTaxFree.csprojResolveAssemblyReference.cache
+C:\Users\st\Documents\GitHub\PatternTask\BuilderTaxFree\bin\Debug\BuilderTaxFree.exe
+C:\Users\st\Documents\GitHub\PatternTask\BuilderTaxFree\bin\Debug\BuilderTaxFree.pdb
+C:\Users\st\Documents\GitHub\PatternTask\BuilderTaxFree\obj\Debug\BuilderTaxFree.csproj.CoreCompileInputs.cache

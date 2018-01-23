@@ -18,14 +18,10 @@ namespace BuilderTaxFree
             IList<CountClient> _list = new List<CountClient>();
 
             var client = new CountClient();
-            client.Prod_One(15).Prod_Two(5).
-                   Prod_Three(7).Prod_Four(10).
-                   Prod_Five(8);
+            client.Name("John").Country("Poland").Shop("Maximus").Product("TV").Price(2500);
 
             var client2 = new CountClient();
-            client2.Prod_One(25).Prod_Two(5).
-                   Prod_Three(17).Prod_Four(12).
-                   Prod_Five(8);
+            client2.Name("Paul").Country("Poland").Shop("Maximus").Product("Cup").Price(25);
 
             _list.Add(client);
             _list.Add(client2);

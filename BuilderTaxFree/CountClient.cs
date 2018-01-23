@@ -8,41 +8,45 @@ namespace BuilderTaxFree
 {
     class CountClient : ICountProduct
     {
-        private double _price;
-        
-        public ICountProduct Prod_Five(int price)
-        {
-            _price += price;
-            return this;
-        }
+        public string CountryName { get; set; }
+        public string ShopName { get; set; }
+        public string ClientName { get; set; }
+        public string ProductName { get; set; }
+        public double CountPrice { get; set; }
 
-        public ICountProduct Prod_Four(int price)
+        public ICountProduct Country(string text)
         {
-            _price += price;
-            return this;
-        }
-
-        public ICountProduct Prod_One(int price)
-        {
-            _price += price;
-            return this;
-        }
-
-        public ICountProduct Prod_Three(int price)
-        {
-            _price += price;
-            return this;
-        }
-
-        public ICountProduct Prod_Two(int price)
-        {
-            _price += price;
+            CountryName = text;
             return this;
         }
 
         public double GetPrice()
         {
-            return _price;
+            return CountPrice;
+        }
+
+        public ICountProduct Name(string text)
+        {
+            ClientName = text;
+            return this;
+        }
+
+        public ICountProduct Price(double price)
+        {
+            CountPrice += price;
+            return this;
+        }
+
+        public ICountProduct Product(string text)
+        {
+            ProductName = text;
+            return this;
+        }
+
+        public ICountProduct Shop(string text)
+        {
+            ShopName = text;
+            return this;
         }
     }
 }
