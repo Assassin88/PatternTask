@@ -1,0 +1,6 @@
+F:\Patterns\HomeTask\CreatPattens_HomeTask_№1\ObjectPool\bin\Debug\ObjectPool.exe.config
+F:\Patterns\HomeTask\CreatPattens_HomeTask_№1\ObjectPool\bin\Debug\ObjectPool.exe
+F:\Patterns\HomeTask\CreatPattens_HomeTask_№1\ObjectPool\bin\Debug\ObjectPool.pdb
+F:\Patterns\HomeTask\CreatPattens_HomeTask_№1\ObjectPool\obj\Debug\ObjectPool.csprojResolveAssemblyReference.cache
+F:\Patterns\HomeTask\CreatPattens_HomeTask_№1\ObjectPool\obj\Debug\ObjectPool.exe
+F:\Patterns\HomeTask\CreatPattens_HomeTask_№1\ObjectPool\obj\Debug\ObjectPool.pdb

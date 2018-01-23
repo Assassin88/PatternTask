@@ -1,0 +1,7 @@
+F:\Patterns\Day3\CreationalPattern\AFactoty\bin\Debug\AFactoty.exe.config
+F:\Patterns\Day3\CreationalPattern\AFactoty\bin\Debug\AFactoty.exe
+F:\Patterns\Day3\CreationalPattern\AFactoty\bin\Debug\AFactoty.pdb
+F:\Patterns\Day3\CreationalPattern\AFactoty\obj\Debug\AFactoty.csprojResolveAssemblyReference.cache
+F:\Patterns\Day3\CreationalPattern\AFactoty\obj\Debug\AFactoty.csproj.CoreCompileInputs.cache
+F:\Patterns\Day3\CreationalPattern\AFactoty\obj\Debug\AFactoty.exe
+F:\Patterns\Day3\CreationalPattern\AFactoty\obj\Debug\AFactoty.pdb

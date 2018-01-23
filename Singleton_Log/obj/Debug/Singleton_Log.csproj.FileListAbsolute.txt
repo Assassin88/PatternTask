@@ -1,0 +1,12 @@
+F:\Patterns\HomeTask\CreatPattens_HomeTask_№1\Singleton_Log\bin\Debug\Singleton_Log.exe.config
+F:\Patterns\HomeTask\CreatPattens_HomeTask_№1\Singleton_Log\bin\Debug\Singleton_Log.exe
+F:\Patterns\HomeTask\CreatPattens_HomeTask_№1\Singleton_Log\bin\Debug\Singleton_Log.pdb
+F:\Patterns\HomeTask\CreatPattens_HomeTask_№1\Singleton_Log\obj\Debug\Singleton_Log.csprojResolveAssemblyReference.cache
+F:\Patterns\HomeTask\CreatPattens_HomeTask_№1\Singleton_Log\obj\Debug\Singleton_Log.exe
+F:\Patterns\HomeTask\CreatPattens_HomeTask_№1\Singleton_Log\obj\Debug\Singleton_Log.pdb
+C:\Users\st\Documents\GitHub\PatternTask\Singleton_Log\bin\Debug\Singleton_Log.exe.config
+C:\Users\st\Documents\GitHub\PatternTask\Singleton_Log\obj\Debug\Singleton_Log.exe
+C:\Users\st\Documents\GitHub\PatternTask\Singleton_Log\obj\Debug\Singleton_Log.pdb
+C:\Users\st\Documents\GitHub\PatternTask\Singleton_Log\bin\Debug\Singleton_Log.exe
+C:\Users\st\Documents\GitHub\PatternTask\Singleton_Log\bin\Debug\Singleton_Log.pdb
+C:\Users\st\Documents\GitHub\PatternTask\Singleton_Log\obj\Debug\Singleton_Log.csprojResolveAssemblyReference.cache

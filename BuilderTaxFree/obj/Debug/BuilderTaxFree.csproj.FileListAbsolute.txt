@@ -1,0 +1,19 @@
+c:\users\pau\documents\visual studio 2015\Projects\CreatPattens_HomeTask_№1\BuilderTaxFree\bin\Debug\BuilderTaxFree.exe.config
+c:\users\pau\documents\visual studio 2015\Projects\CreatPattens_HomeTask_№1\BuilderTaxFree\bin\Debug\BuilderTaxFree.exe
+c:\users\pau\documents\visual studio 2015\Projects\CreatPattens_HomeTask_№1\BuilderTaxFree\bin\Debug\BuilderTaxFree.pdb
+c:\users\pau\documents\visual studio 2015\Projects\CreatPattens_HomeTask_№1\BuilderTaxFree\obj\Debug\BuilderTaxFree.csprojResolveAssemblyReference.cache
+c:\users\pau\documents\visual studio 2015\Projects\CreatPattens_HomeTask_№1\BuilderTaxFree\obj\Debug\BuilderTaxFree.exe
+c:\users\pau\documents\visual studio 2015\Projects\CreatPattens_HomeTask_№1\BuilderTaxFree\obj\Debug\BuilderTaxFree.pdb
+F:\Patterns\HomeTask\CreatPattens_HomeTask_№1\BuilderTaxFree\bin\Debug\BuilderTaxFree.exe.config
+F:\Patterns\HomeTask\CreatPattens_HomeTask_№1\BuilderTaxFree\obj\Debug\BuilderTaxFree.exe
+F:\Patterns\HomeTask\CreatPattens_HomeTask_№1\BuilderTaxFree\obj\Debug\BuilderTaxFree.pdb
+F:\Patterns\HomeTask\CreatPattens_HomeTask_№1\BuilderTaxFree\bin\Debug\BuilderTaxFree.exe
+F:\Patterns\HomeTask\CreatPattens_HomeTask_№1\BuilderTaxFree\bin\Debug\BuilderTaxFree.pdb
+F:\Patterns\HomeTask\CreatPattens_HomeTask_№1\BuilderTaxFree\obj\Debug\BuilderTaxFree.csprojResolveAssemblyReference.cache
+C:\Users\st\Documents\GitHub\PatternTask\BuilderTaxFree\bin\Debug\BuilderTaxFree.exe.config
+C:\Users\st\Documents\GitHub\PatternTask\BuilderTaxFree\obj\Debug\BuilderTaxFree.exe
+C:\Users\st\Documents\GitHub\PatternTask\BuilderTaxFree\obj\Debug\BuilderTaxFree.pdb
+C:\Users\st\Documents\GitHub\PatternTask\BuilderTaxFree\obj\Debug\BuilderTaxFree.csprojResolveAssemblyReference.cache
+C:\Users\st\Documents\GitHub\PatternTask\BuilderTaxFree\bin\Debug\BuilderTaxFree.exe
+C:\Users\st\Documents\GitHub\PatternTask\BuilderTaxFree\bin\Debug\BuilderTaxFree.pdb
+C:\Users\st\Documents\GitHub\PatternTask\BuilderTaxFree\obj\Debug\BuilderTaxFree.csproj.CoreCompileInputs.cache
