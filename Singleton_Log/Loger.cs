@@ -12,6 +12,8 @@ namespace Singleton_Log
         private static Loger _loger;
         private static readonly object _locker = new object();
 
+        private Loger() { }
+
         public static Loger GetInstance()
         {
             lock (_locker)
