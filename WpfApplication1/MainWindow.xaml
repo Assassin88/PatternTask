@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.3*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Canvas Grid.ColumnSpan="2" Grid.RowSpan="2" Name="MainCanvas" >
+            <Canvas.Background>
+                <ImageBrush ImageSource="F:\Patterns\Day4\StructuralPatterns\WpfApplication1\Images\B.jpg"></ImageBrush>
+            </Canvas.Background>   
+        </Canvas>
+        <Button Grid.Column="1" Grid.Row="2" Padding="0.5" Margin="50,10" Name="btnEnter" Click="btnEnter_Click">Enter</Button>
+        <TextBox Grid.Column="0" Grid.Row="2" Padding="0.5" Margin="50,10" Name="tbEnter"></TextBox>
+    </Grid>
+</Window>
