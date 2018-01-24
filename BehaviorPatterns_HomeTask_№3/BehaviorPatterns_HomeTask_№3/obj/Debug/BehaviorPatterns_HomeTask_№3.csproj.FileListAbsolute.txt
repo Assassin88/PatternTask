@@ -1,0 +1,8 @@
+c:\users\st\documents\visual studio 2015\Projects\BehaviorPatterns_HomeTask_№3\BehaviorPatterns_HomeTask_№3\bin\Debug\BehaviorPatterns_HomeTask_№3.exe.config
+F:\Patterns\HomeTask\BehaviorPatterns_HomeTask_№3\BehaviorPatterns_HomeTask_№3\bin\Debug\BehaviorPatterns_HomeTask_№3.exe.config
+F:\Patterns\HomeTask\BehaviorPatterns_HomeTask_№3\BehaviorPatterns_HomeTask_№3\bin\Debug\BehaviorPatterns_HomeTask_№3.exe
+F:\Patterns\HomeTask\BehaviorPatterns_HomeTask_№3\BehaviorPatterns_HomeTask_№3\bin\Debug\BehaviorPatterns_HomeTask_№3.pdb
+F:\Patterns\HomeTask\BehaviorPatterns_HomeTask_№3\BehaviorPatterns_HomeTask_№3\obj\Debug\BehaviorPatterns_HomeTask_№3.csprojResolveAssemblyReference.cache
+F:\Patterns\HomeTask\BehaviorPatterns_HomeTask_№3\BehaviorPatterns_HomeTask_№3\obj\Debug\BehaviorPatterns_HomeTask_№3.csproj.CoreCompileInputs.cache
+F:\Patterns\HomeTask\BehaviorPatterns_HomeTask_№3\BehaviorPatterns_HomeTask_№3\obj\Debug\BehaviorPatterns_HomeTask_№3.exe
+F:\Patterns\HomeTask\BehaviorPatterns_HomeTask_№3\BehaviorPatterns_HomeTask_№3\obj\Debug\BehaviorPatterns_HomeTask_№3.pdb

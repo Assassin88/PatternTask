@@ -1,0 +1,7 @@
+F:\Patterns\HomeTask\BehaviorPatterns_HomeTask_№3\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+F:\Patterns\HomeTask\BehaviorPatterns_HomeTask_№3\TemplateMethod\bin\Debug\TemplateMethod.exe
+F:\Patterns\HomeTask\BehaviorPatterns_HomeTask_№3\TemplateMethod\bin\Debug\TemplateMethod.pdb
+F:\Patterns\HomeTask\BehaviorPatterns_HomeTask_№3\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+F:\Patterns\HomeTask\BehaviorPatterns_HomeTask_№3\TemplateMethod\obj\Debug\TemplateMethod.exe
+F:\Patterns\HomeTask\BehaviorPatterns_HomeTask_№3\TemplateMethod\obj\Debug\TemplateMethod.pdb
+F:\Patterns\HomeTask\BehaviorPatterns_HomeTask_№3\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
