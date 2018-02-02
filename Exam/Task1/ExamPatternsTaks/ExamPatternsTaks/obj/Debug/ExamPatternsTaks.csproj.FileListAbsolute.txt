@@ -1,0 +1,15 @@
+F:\Patterns\Exam\ExamPatternsTaks\ExamPatternsTaks\bin\Debug\ExamPatternsTaks.exe.config
+F:\Patterns\Exam\ExamPatternsTaks\ExamPatternsTaks\bin\Debug\ExamPatternsTaks.exe
+F:\Patterns\Exam\ExamPatternsTaks\ExamPatternsTaks\bin\Debug\ExamPatternsTaks.pdb
+F:\Patterns\Exam\ExamPatternsTaks\ExamPatternsTaks\obj\Debug\ExamPatternsTaks.csprojResolveAssemblyReference.cache
+F:\Patterns\Exam\ExamPatternsTaks\ExamPatternsTaks\obj\Debug\MainWindow.g.cs
+F:\Patterns\Exam\ExamPatternsTaks\ExamPatternsTaks\obj\Debug\App.g.cs
+F:\Patterns\Exam\ExamPatternsTaks\ExamPatternsTaks\obj\Debug\ExamPatternsTaks_MarkupCompile.cache
+F:\Patterns\Exam\ExamPatternsTaks\ExamPatternsTaks\obj\Debug\ExamPatternsTaks_MarkupCompile.lref
+F:\Patterns\Exam\ExamPatternsTaks\ExamPatternsTaks\obj\Debug\MainWindow.baml
+F:\Patterns\Exam\ExamPatternsTaks\ExamPatternsTaks\obj\Debug\ExamPatternsTaks.g.resources
+F:\Patterns\Exam\ExamPatternsTaks\ExamPatternsTaks\obj\Debug\ExamPatternsTaks.Properties.Resources.resources
+F:\Patterns\Exam\ExamPatternsTaks\ExamPatternsTaks\obj\Debug\ExamPatternsTaks.csproj.GenerateResource.Cache
+F:\Patterns\Exam\ExamPatternsTaks\ExamPatternsTaks\obj\Debug\ExamPatternsTaks.csproj.CoreCompileInputs.cache
+F:\Patterns\Exam\ExamPatternsTaks\ExamPatternsTaks\obj\Debug\ExamPatternsTaks.exe
+F:\Patterns\Exam\ExamPatternsTaks\ExamPatternsTaks\obj\Debug\ExamPatternsTaks.pdb

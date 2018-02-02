@@ -1,0 +1,14 @@
+F:\Patterns\Exam\ExamPatternsTaks\ExamAbstractFactory\bin\Debug\ExamAbstractFactory.exe.config
+F:\Patterns\Exam\ExamPatternsTaks\ExamAbstractFactory\bin\Debug\ExamAbstractFactory.exe
+F:\Patterns\Exam\ExamPatternsTaks\ExamAbstractFactory\bin\Debug\ExamAbstractFactory.pdb
+F:\Patterns\Exam\ExamPatternsTaks\ExamAbstractFactory\bin\Debug\Services.dll
+F:\Patterns\Exam\ExamPatternsTaks\ExamAbstractFactory\bin\Debug\NAudio.dll
+F:\Patterns\Exam\ExamPatternsTaks\ExamAbstractFactory\bin\Debug\Services.pdb
+F:\Patterns\Exam\ExamPatternsTaks\ExamAbstractFactory\bin\Debug\NAudio.xml
+F:\Patterns\Exam\ExamPatternsTaks\ExamAbstractFactory\obj\Debug\ExamAbstractFactory.csprojResolveAssemblyReference.cache
+F:\Patterns\Exam\ExamPatternsTaks\ExamAbstractFactory\obj\Debug\ExamAbstractFactory.MainForm.resources
+F:\Patterns\Exam\ExamPatternsTaks\ExamAbstractFactory\obj\Debug\ExamAbstractFactory.Properties.Resources.resources
+F:\Patterns\Exam\ExamPatternsTaks\ExamAbstractFactory\obj\Debug\ExamAbstractFactory.csproj.GenerateResource.Cache
+F:\Patterns\Exam\ExamPatternsTaks\ExamAbstractFactory\obj\Debug\ExamAbstractFactory.csproj.CoreCompileInputs.cache
+F:\Patterns\Exam\ExamPatternsTaks\ExamAbstractFactory\obj\Debug\ExamAbstractFactory.exe
+F:\Patterns\Exam\ExamPatternsTaks\ExamAbstractFactory\obj\Debug\ExamAbstractFactory.pdb
