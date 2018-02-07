@@ -1,0 +1,7 @@
+C:\Users\Pau\source\repos\Task5_Chat\Task5_Chat\bin\Debug\Task5_Chat.exe.config
+C:\Users\Pau\source\repos\Task5_Chat\Task5_Chat\bin\Debug\Task5_Chat.exe
+C:\Users\Pau\source\repos\Task5_Chat\Task5_Chat\bin\Debug\Task5_Chat.pdb
+C:\Users\Pau\source\repos\Task5_Chat\Task5_Chat\obj\Debug\Task5_Chat.csprojResolveAssemblyReference.cache
+C:\Users\Pau\source\repos\Task5_Chat\Task5_Chat\obj\Debug\Task5_Chat.csproj.CoreCompileInputs.cache
+C:\Users\Pau\source\repos\Task5_Chat\Task5_Chat\obj\Debug\Task5_Chat.exe
+C:\Users\Pau\source\repos\Task5_Chat\Task5_Chat\obj\Debug\Task5_Chat.pdb

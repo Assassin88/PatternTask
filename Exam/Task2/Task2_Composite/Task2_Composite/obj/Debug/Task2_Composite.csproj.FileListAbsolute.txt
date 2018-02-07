@@ -1,0 +1,13 @@
+C:\Users\Pau\source\repos\Task2_Composite\Task2_Composite\bin\Debug\Task2_Composite.exe.config
+C:\Users\Pau\source\repos\Task2_Composite\Task2_Composite\bin\Debug\Task2_Composite.exe
+C:\Users\Pau\source\repos\Task2_Composite\Task2_Composite\bin\Debug\Task2_Composite.pdb
+C:\Users\Pau\source\repos\Task2_Composite\Task2_Composite\obj\Debug\Task2_Composite.csproj.CoreCompileInputs.cache
+C:\Users\Pau\source\repos\Task2_Composite\Task2_Composite\obj\Debug\Task2_Composite.exe
+C:\Users\Pau\source\repos\Task2_Composite\Task2_Composite\obj\Debug\Task2_Composite.pdb
+C:\Users\Pau\source\repos\Task2_Composite\Task2_Composite\obj\Debug\Task2_Composite.csprojResolveAssemblyReference.cache
+F:\Patterns\Exam\Task2\Task2_Composite\Task2_Composite\bin\Debug\Task2_Composite.exe.config
+F:\Patterns\Exam\Task2\Task2_Composite\Task2_Composite\obj\Debug\Task2_Composite.exe
+F:\Patterns\Exam\Task2\Task2_Composite\Task2_Composite\obj\Debug\Task2_Composite.pdb
+F:\Patterns\Exam\Task2\Task2_Composite\Task2_Composite\bin\Debug\Task2_Composite.exe
+F:\Patterns\Exam\Task2\Task2_Composite\Task2_Composite\bin\Debug\Task2_Composite.pdb
+F:\Patterns\Exam\Task2\Task2_Composite\Task2_Composite\obj\Debug\Task2_Composite.csprojResolveAssemblyReference.cache

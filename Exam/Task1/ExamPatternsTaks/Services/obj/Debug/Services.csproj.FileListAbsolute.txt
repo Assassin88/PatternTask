@@ -1,0 +1,8 @@
+F:\Patterns\Exam\ExamPatternsTaks\Services\bin\Debug\Services.dll
+F:\Patterns\Exam\ExamPatternsTaks\Services\bin\Debug\Services.pdb
+F:\Patterns\Exam\ExamPatternsTaks\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+F:\Patterns\Exam\ExamPatternsTaks\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+F:\Patterns\Exam\ExamPatternsTaks\Services\obj\Debug\Services.dll
+F:\Patterns\Exam\ExamPatternsTaks\Services\obj\Debug\Services.pdb
+F:\Patterns\Exam\ExamPatternsTaks\Services\bin\Debug\NAudio.dll
+F:\Patterns\Exam\ExamPatternsTaks\Services\bin\Debug\NAudio.xml

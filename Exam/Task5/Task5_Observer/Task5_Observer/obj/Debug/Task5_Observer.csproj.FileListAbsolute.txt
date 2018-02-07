@@ -1,0 +1,8 @@
+C:\Users\st.ITSTEP.000\Downloads\Task5_Observer\Task5_Observer\bin\Debug\Task5_Observer.exe.config
+F:\Patterns\Exam\Task5\Task5_Observer\Task5_Observer\bin\Debug\Task5_Observer.exe.config
+F:\Patterns\Exam\Task5\Task5_Observer\Task5_Observer\bin\Debug\Task5_Observer.exe
+F:\Patterns\Exam\Task5\Task5_Observer\Task5_Observer\bin\Debug\Task5_Observer.pdb
+F:\Patterns\Exam\Task5\Task5_Observer\Task5_Observer\obj\Debug\Task5_Observer.csprojResolveAssemblyReference.cache
+F:\Patterns\Exam\Task5\Task5_Observer\Task5_Observer\obj\Debug\Task5_Observer.csproj.CoreCompileInputs.cache
+F:\Patterns\Exam\Task5\Task5_Observer\Task5_Observer\obj\Debug\Task5_Observer.exe
+F:\Patterns\Exam\Task5\Task5_Observer\Task5_Observer\obj\Debug\Task5_Observer.pdb
